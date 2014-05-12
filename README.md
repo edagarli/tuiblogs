@@ -36,7 +36,6 @@
   * [Dart](#dart)
   * [Java](#java)
   * [JavaScript](#javascript)
-  * [PHP](#php)
   * [iOS](#ios)
   * [Android](#android)
   * [Python](#python)
