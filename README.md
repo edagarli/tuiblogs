@@ -66,7 +66,7 @@
   * [王垠](http://www.yinwang.org/)
   * [谭智军](https://tumutanzi.com/)
   * [郭霖](http://blog.csdn.net/guolin_blog)
-  
+  * [袁萌](http://blog.csdn.net/yuanmeng001)
   * [Adam Bien](http://www.adam-bien.com/roller/abien/)
   * [Richard Warburton](http://www.insightfullogic.com/blog/)(Java 8 lambda一书的作者)
  
