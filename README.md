@@ -38,9 +38,7 @@
   * [Android](#android)
   * [Python](#python)
   * [Ruby](#ruby)
-  * [Shell](#shell)
   * [Go](#go)
-  * [Groovy](#groovy)
 * [读书笔记及其它](#读书笔记及其它)
 
 ## 优秀博客 
