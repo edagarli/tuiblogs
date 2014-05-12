@@ -74,25 +74,40 @@
   * [谭智军](https://tumutanzi.com/)
 
 ## 语言无关类
+
+### 互联网哲学
+
+* [用专业语言表达，用通用语言沟通](http://home.wangjianshuo.com/cn/category/aeec)
+
+### 创业
+
+* [用专业语言表达，用通用语言沟通](http://home.wangjianshuo.com/cn/20100524_aeeeie_caee.htm)
+* [经济形势这么差为什么要创业——Why to Start a Startup in a Bad Economy](http://blog.csdn.net/edagarli/article/details/22201585)
+* [为什么不去创业——Why to Not Not Start a Startup](http://blog.csdn.net/edagarli/article/details/22005785)
+
+### GEEK
+
+* [少年心气 － 艾伦·斯沃兹(Aaron Swartz) 的传奇](http://dbanotes.net/geek/aaron-swartz_smells-like-teen-spirit.html)
+
 ## 语言相关类
 
 ### C/C++
 
-
+  * [一个“蝇量级” C 语言协程库](http://coolshell.cn/articles/10975.html)
+  * [C++11（及现代C++风格）和快速迭代式开发](http://mindhacks.cn/2012/08/27/modern-cpp-practices/)
+  * [C++多线程系统编程精要](http://blog.csdn.net/solstice/article/details/6181488)
+  * [C++string用法详解](https://www.byvoid.com/zhs/blog/cpp-string)
 
 ### CSS
 
-
-### Dart
-
+  * [CSS动画简介](http://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html)
+ 
 
 ### Java
-
-
+ 
 
 ### JavaScript
 * Node.js
-   
 
 * AngularJS
     
@@ -114,20 +129,9 @@
 
 ### Ruby
 
-
 ### Shell
-
 
 ### Go
 
 ### Groovy
 
-### LISP
-
-### Haskell
-
-### Scala
-
-### Perl
-
-### 读书笔记及其它
