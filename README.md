@@ -68,6 +68,11 @@
   * [王建硕](http://www.wangjianshuo.com/)
   * [王垠](http://www.yinwang.org/)
   * [谭智军](https://tumutanzi.com/)
+  * [郭霖](http://blog.csdn.net/guolin_blog)
+  
+  * [Adam Bien](http://www.adam-bien.com/roller/abien/)
+  * [Richard Warburton](http://www.insightfullogic.com/blog/)(Java 8 lambda一书的作者)
+ 
 
 ## 语言无关类
 ### 创业
@@ -103,34 +108,39 @@
  
 
 ### Java
- 
+  
+  * [Find Out Your Java Heap Memory Size](http://www.mkyong.com/java/find-out-your-java-heap-memory-size/)
+  * [The Pain of Broken Subprocess Management on JDK](http://blog.headius.com/2013/06/the-pain-of-broken-subprocess.html)
 
 ### JavaScript
 * Node.js
+   * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+   * [告别node-forever,拥抱PM2](http://www.oschina.net/translate/goodbye-node-forever-hello-pm2)
 
 * AngularJS
-    
-* Sea.js
- 
-* CoffeeScript
-   
-
-### PHP
-
+   * [AngularJS Tutorial – Learn AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
+  
 
 ### iOS
-
+  
+  * [Cloud Hsu的专栏](http://blog.csdn.net/cloudhsu/article/category/713550)
+  * [iOS安全攻防](http://blog.csdn.net/column/details/hackingios.html)
 
 ### Android
 
-### Python
+  * [Android Fragment完全解析，关于碎片你所需知道的一切](http://blog.csdn.net/guolin_blog/article/details/8881711)
+  * [Android 源码解读](http://blog.csdn.net/column/details/android-source-walk.html)
 
+### Python
+  
+  * [python并行调参——scikit-learn grid_search](http://blog.csdn.net/abcjennifer/article/details/23884761)
+  * [php内核探索方法与资源](http://blog.csdn.net/21aspnet/article/details/8197130)
 
 ### Ruby
 
-### Shell
+  * [Ruby设计模式透析之 —— 单例(Singleton)](http://blog.csdn.net/guolin_blog/article/details/8868758)
 
 ### Go
-
-### Groovy
-
+  
+  * [Go在谷歌：以软件工程为目的的语言设计](http://blog.jobbole.com/36480/)
+  
