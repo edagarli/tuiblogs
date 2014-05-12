@@ -28,7 +28,7 @@
 
 ## 目录
 
-* [优秀博客站点](#优秀博客站点)
+* [优秀博客](#优秀博客)
 * [语言无关类](#语言无关类)
 * [语言相关类](#语言相关类)
   * [C/C++](#cc)
@@ -49,7 +49,30 @@
   * [Scala](#scala)
 
 * [读书笔记及其它](#读书笔记及其它)
-  
+
+## 优秀博客 
+
+  * [杨文博](http://blog.solrex.org/)
+  * [杨远骋](http://blog.yangyc.com/)
+  * [徐宥](http://blog.youxu.info/)
+  * [酷壳](http://coolshell.cn/)
+  * [池建强](http://macshuo.com/)
+  * [刘未鹏](http://mindhacks.cn)
+  * [师北宸](http://shibeichen.com/)
+  * [王聪](http://wangcong.org/blog/)
+  * [张磊](http://www.blogkid.net)
+  * [郭家宝](http://www.byvoid.com/zhs/blog)
+  * [陈硕](http://www.chenshuo.com/)
+  * [冯大辉](http://www.dbanotes.net/)
+  * [周季](http://www.gocalf.com/blog)
+  * [楼竞](http://www.loujing.com/blog/)
+  * [余晟](http://www.luanxiang.org/blog/)
+  * [阮一峰](http://www.ruanyifeng.com/blog/)
+  * [江东](http://www.storyday.com/)
+  * [王建硕](http://www.wangjianshuo.com/)
+  * [王垠](http://www.yinwang.org/)
+  * [谭智军](https://tumutanzi.com/)
+
 ## 语言无关类
 ## 语言相关类
 
