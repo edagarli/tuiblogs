@@ -70,11 +70,6 @@
   * [谭智军](https://tumutanzi.com/)
 
 ## 语言无关类
-
-### 互联网哲学
-
-* [用专业语言表达，用通用语言沟通](http://home.wangjianshuo.com/cn/category/aeec)
-
 ### 创业
 
 * [用专业语言表达，用通用语言沟通](http://home.wangjianshuo.com/cn/20100524_aeeeie_caee.htm)
@@ -84,6 +79,15 @@
 ### GEEK
 
 * [少年心气 － 艾伦·斯沃兹(Aaron Swartz) 的传奇](http://dbanotes.net/geek/aaron-swartz_smells-like-teen-spirit.html)
+
+### 互联网哲学
+
+* [用专业语言表达，用通用语言沟通](http://home.wangjianshuo.com/cn/category/aeec)
+
+### 算法
+
+* [网页正文提取算法介绍](http://www.cnblogs.com/phoenixnudt/articles/2382140.html)
+
 
 ## 语言相关类
 ### C/C++
