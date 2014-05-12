@@ -44,9 +44,6 @@
   * [Shell](#shell)
   * [Go](#go)
   * [Groovy](#groovy)
-  * [LISP](#lisp)
-  * [Haskell](#haskell)
-  * [Scala](#scala)
 * [读书笔记及其它](#读书笔记及其它)
 
 ## 优秀博客 
