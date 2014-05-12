@@ -126,6 +126,7 @@
 
   * [Android Fragment完全解析，关于碎片你所需知道的一切](http://blog.csdn.net/guolin_blog/article/details/8881711)
   * [Android 源码解读](http://blog.csdn.net/column/details/android-source-walk.html)
+  * [Android Path Time ScrollBar（Path 时间轴](http://blog.csdn.net/wangjinyu501/article/details/24304261)
 
 ### Python
   
