@@ -71,6 +71,7 @@
 * [为什么不去创业——Why to Not Not Start a Startup](http://blog.csdn.net/edagarli/article/details/22005785)
 * [我与刘强东的故事：他的1000亿和我的5000万](http://blog.csdn.net/domypp/article/details/24144501)
 * [5个方法创建特别的团队文化](http://www.cyzone.cn/a/20131103/246701.html)
+* [17个浪费你创业成功机会的小错误](http://www.cyzone.cn/a/20140518/257840.html)
 
 ### GEEK
 
