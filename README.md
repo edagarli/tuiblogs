@@ -85,6 +85,10 @@
 
 * [网页正文提取算法介绍](http://www.cnblogs.com/phoenixnudt/articles/2382140.html)
 
+### 设计
+
+* [推荐移动UI/UX设计师和PM使用的原型工具](http://blog.jobbole.com/63163/)
+
 
 ## 语言相关类
 ### C/C++
