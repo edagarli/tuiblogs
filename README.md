@@ -70,6 +70,7 @@
 * [经济形势这么差为什么要创业——Why to Start a Startup in a Bad Economy](http://blog.csdn.net/edagarli/article/details/22201585)
 * [为什么不去创业——Why to Not Not Start a Startup](http://blog.csdn.net/edagarli/article/details/22005785)
 * [我与刘强东的故事：他的1000亿和我的5000万](http://blog.csdn.net/domypp/article/details/24144501)
+* [5个方法创建特别的团队文化](http://www.cyzone.cn/a/20131103/246701.html)
 
 ### GEEK
 
