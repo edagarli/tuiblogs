@@ -88,6 +88,7 @@
 ### 设计
 
 * [推荐移动UI/UX设计师和PM使用的原型工具](http://blog.jobbole.com/63163/)
+* [Justproto：Linux下Axure的替代方案](http://dmyz.org/archives/316)
 
 
 ## 语言相关类
