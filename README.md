@@ -89,6 +89,7 @@
 
 * [推荐移动UI/UX设计师和PM使用的原型工具](http://blog.jobbole.com/63163/)
 * [Justproto：Linux下Axure的替代方案](http://dmyz.org/archives/316)
+* [最受欢迎的游戏引擎集结号：小白篇](http://www.csdn.net/article/2014-05-19/2819828-Simple-and-easy-game-engines)
 
 ### 云计算
 
