@@ -72,6 +72,7 @@
 * [我与刘强东的故事：他的1000亿和我的5000万](http://blog.csdn.net/domypp/article/details/24144501)
 * [5个方法创建特别的团队文化](http://www.cyzone.cn/a/20131103/246701.html)
 * [17个浪费你创业成功机会的小错误](http://www.cyzone.cn/a/20140518/257840.html)
+* [Twitter战略总监：如何挑选出伟大的联合创始人？](http://www.csdn.net/article/2014-05-16/2819798-Co-founder)
 
 ### GEEK
 
