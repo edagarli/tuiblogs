@@ -90,6 +90,9 @@
 * [推荐移动UI/UX设计师和PM使用的原型工具](http://blog.jobbole.com/63163/)
 * [Justproto：Linux下Axure的替代方案](http://dmyz.org/archives/316)
 
+### 云计算
+
+* [一网打尽18种主流数据库：12种SQL+6种NoSQL](http://www.csdn.net/article/2012-07-26/2807745)
 
 ## 语言相关类
 ### C/C++
