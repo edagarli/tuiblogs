@@ -154,5 +154,6 @@
 ### 读书笔记及其它
   
   * [What does “./bin/www” do in Express 4.x?](http://stackoverflow.com/questions/23169941/what-does-bin-www-do-in-express-4-x)
+  * [How do I install Maven 3?](http://askubuntu.com/questions/49557/how-do-i-install-maven-3)
 
   
