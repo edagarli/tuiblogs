@@ -62,7 +62,6 @@
   * [Adam Bien](http://www.adam-bien.com/roller/abien/)
   * [Richard Warburton](http://www.insightfullogic.com/blog/)(Java 8 lambda一书的作者)
   * [老赵](http://blog.zhaojie.me/)（资深码农）
-  * 
  
 
 ## 语言无关类
