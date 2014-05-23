@@ -156,4 +156,5 @@
   * [What does “./bin/www” do in Express 4.x?](http://stackoverflow.com/questions/23169941/what-does-bin-www-do-in-express-4-x)
   * [How do I install Maven 3?](http://askubuntu.com/questions/49557/how-do-i-install-maven-3)
   * [Ubuntu中如何将一个文件从一个目录复制到另一个目录](http://www.linuxidc.com/Linux/2010-12/30320.htm)
+  * [良心推荐：6款基于云的移动应用开发工具](http://www.csdn.net/article/2014-05-22/2819904-6-cloud-based-tools)
   
