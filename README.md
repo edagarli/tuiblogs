@@ -93,6 +93,7 @@
 * [推荐移动UI/UX设计师和PM使用的原型工具](http://blog.jobbole.com/63163/)
 * [Justproto：Linux下Axure的替代方案](http://dmyz.org/archives/316)
 * [最受欢迎的游戏引擎集结号：小白篇](http://www.csdn.net/article/2014-05-19/2819828-Simple-and-easy-game-engines)
+* [笑喷了！15个极具创意的自定义 404 错误页面](http://www.cnblogs.com/lhb25/p/404-error-page-design-examples.html)
 
 ### 云计算
 
