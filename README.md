@@ -111,6 +111,7 @@
 ### CSS
 
   * [CSS动画简介](http://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html)
+  * [14款震撼人心的HTML5文字特效](http://www.html5tricks.com/15-cool-html5-text-effect.html)
  
 
 ### Java
