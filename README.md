@@ -78,6 +78,7 @@
 ### GEEK
 
 * [少年心气 － 艾伦·斯沃兹(Aaron Swartz) 的传奇](http://dbanotes.net/geek/aaron-swartz_smells-like-teen-spirit.html)
+* [全栈程序员伤不起](http://www.itjhwd.com/fsd-cxy/)
 
 ### 互联网哲学
 
