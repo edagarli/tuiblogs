@@ -162,4 +162,5 @@
   * [良心推荐：6款基于云的移动应用开发工具](http://www.csdn.net/article/2014-05-22/2819904-6-cloud-based-tools)
   * [8款最佳的开源在线学习CMS系统](http://www.csdn.net/article/2014-05-19/2819826-CMS-Learning)
   * [2014年值得学习的编程语言书](http://www.oschina.net/question/587367_156026)
+  * [万事俱备：“我现在只差一个编程的”](http://www.oschina.net/news/13762/i-just-need-a-programmer)
   
