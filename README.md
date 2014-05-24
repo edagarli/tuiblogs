@@ -127,6 +127,7 @@
 
 * AngularJS
    * [AngularJS Tutorial – Learn AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
+   * [A Step-by-Step Guide to Your First AngularJS App](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app)
   
 
 ### iOS
