@@ -37,11 +37,11 @@
 
 ## 优秀博客 
 
-  * [杨文博](http://blog.solrex.org/)
+  * [杨文博](http://blog.solrex.org/)(供职于百度公司，任复合搜索部资深研发工程师，目前作为tech lead，负责垂直行业搜索后端架构研发。)
   * [杨远骋](http://blog.yangyc.com/)
-  * [徐宥](http://blog.youxu.info/)
-  * [酷壳](http://coolshell.cn/)
-  * [池建强](http://macshuo.com/)
+  * [徐宥](http://blog.youxu.info/)(Google 软件工程师. 这个中文博客是我的思考记录，主要用来帮助我 debug/refactor 我的思想)
+  * [酷壳](http://coolshell.cn/)(15年软件开发相关工作经验，8年以上项目和团队管理经验)
+  * [池建强](http://macshuo.com/)(现任瑞友科技IT应用研究院副院长)
   * [刘未鹏](http://mindhacks.cn)
   * [师北宸](http://shibeichen.com/)
   * [王聪](http://wangcong.org/blog/)
