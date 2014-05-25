@@ -76,6 +76,7 @@
      * [Juri Strumpflohner](http://juristr.com/)(JavaScript)
      * [Reza Rahman](https://blogs.oracle.com/reza/)(Java EE/Glassfish)
      * [Phil Whelan](http://www.bigfastblog.com/)(Web技术)
+     * [Brett Porter](http://brettporter.wordpress.com/)(Apache Maven 2的作者)
  
 
 ## 语言无关类
