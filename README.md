@@ -60,8 +60,22 @@
   * [郭霖](http://blog.csdn.net/guolin_blog)
   * [袁萌](http://blog.csdn.net/yuanmeng001)
   * [Adam Bien](http://www.adam-bien.com/roller/abien/)
-  * [Richard Warburton](http://www.insightfullogic.com/blog/)(Java 8 lambda一书的作者)
   * [老赵](http://blog.zhaojie.me/)（资深码农）
+  * java高质量博客
+     * [Adam Bien](http://www.adam-bien.com/roller/abien/)(Java EE相关)
+     * [Antonio Goncalves](http://antoniogoncalves.org/)(Java EE相关（《Java EE 5》和《Java EE 7》的作者）)
+     * [Henrik Warne](http://henrikwarne.com/)(编程过程中的一些思考)
+     * [Billy Yarosh](http://keaplogik.blogspot.com/)(Java日常开发中的实用代码示例)
+     * [Lars Vogel](http://www.vogella.com/)(Java、Android 和Eclipse)
+     * [Peter Verhas](http://javax0.wordpress.com/)(纯粹的Java)
+     * [Martin Fowler](http://martinfowler.com/)(面向对象设计专家和咨询师)
+     * [Bozhidar Bozhanov](http://techblog.bozho.net/)(Java EE相关)
+     * [Richard Warburton](http://insightfullogic.com/blog/)(Java 8 Lambdas)
+     * [Bear Giles](http://invariantproperties.com/)(Java EE相关)
+     * [Dror Helper](http://blog.mikiobraun.de/)(代码测试和代码质量)
+     * [Juri Strumpflohner](http://juristr.com/)(JavaScript)
+     * [Reza Rahman](https://blogs.oracle.com/reza/)(Java EE/Glassfish)
+     * [Phil Whelan](http://www.bigfastblog.com/)(Web技术)
  
 
 ## 语言无关类
