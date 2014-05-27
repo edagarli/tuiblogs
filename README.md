@@ -140,6 +140,7 @@
 * Node.js
    * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
    * [告别node-forever,拥抱PM2](http://www.oschina.net/translate/goodbye-node-forever-hello-pm2)
+   * [叩首问路，码梦为生——QCon北京2013 Node.js专题出品人朴灵专访](http://www.infoq.com/cn/news/2013/01/qcon-beijing-nodejs-interview/)
 
 * AngularJS
    * [AngularJS Tutorial – Learn AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
