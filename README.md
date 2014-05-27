@@ -181,4 +181,5 @@
   * [2014年值得学习的编程语言书](http://www.oschina.net/question/587367_156026)
   * [万事俱备：“我现在只差一个编程的”](http://www.oschina.net/news/13762/i-just-need-a-programmer)
   * [不要学习代码，要学会思考](http://www.laixintao.com/posts/673)
+  * [代码审查是如何抹杀开发者积极性的？](http://www.csdn.net/article/2014-05-26/2819940-code-review)
   
