@@ -37,30 +37,30 @@
 
 ## 优秀博客 
 
-  * [杨文博](http://blog.solrex.org/)(供职于百度公司，任复合搜索部资深研发工程师，目前作为tech lead，负责垂直行业搜索后端架构研发。)
-  * [杨远骋](http://blog.yangyc.com/)
-  * [徐宥](http://blog.youxu.info/)(Google 软件工程师. 这个中文博客是我的思考记录，主要用来帮助我 debug/refactor 我的思想)
-  * [酷壳](http://coolshell.cn/)(15年软件开发相关工作经验，8年以上项目和团队管理经验)
-  * [池建强](http://macshuo.com/)(现任瑞友科技IT应用研究院副院长)
-  * [刘未鹏](http://mindhacks.cn)
-  * [师北宸](http://shibeichen.com/)
-  * [王聪](http://wangcong.org/blog/)
-  * [张磊](http://www.blogkid.net)
-  * [郭家宝](http://www.byvoid.com/zhs/blog)
-  * [陈硕](http://www.chenshuo.com/)
-  * [冯大辉](http://www.dbanotes.net/)(现在就职于丁香园 (http://dxy.cn) ，担任技术团队负责人.)
-  * [周季](http://www.gocalf.com/blog)
-  * [楼竞](http://www.loujing.com/blog/)
-  * [余晟](http://www.luanxiang.org/blog/)
-  * [阮一峰](http://www.ruanyifeng.com/blog/)
-  * [江东](http://www.storyday.com/)(清华大学计算机系二零一零级本科生，自由意志主义者)
-  * [王建硕](http://www.wangjianshuo.com/)
-  * [王垠](http://www.yinwang.org/)
-  * [谭智军](https://tumutanzi.com/)
-  * [郭霖](http://blog.csdn.net/guolin_blog)
-  * [袁萌](http://blog.csdn.net/yuanmeng001)
-  * [Adam Bien](http://www.adam-bien.com/roller/abien/)
-  * [老赵](http://blog.zhaojie.me/)（资深码农）
+  * 综合
+    * [杨文博](http://blog.solrex.org/)(供职于百度公司，任复合搜索部资深研发工程师，目前作为tech lead，负责垂直行业搜索后端架构研发。)
+    * [杨远骋](http://blog.yangyc.com/)
+    * [徐宥](http://blog.youxu.info/)(Google 软件工程师. 这个中文博客是我的思考记录，主要用来帮助我 debug/refactor 我的思想)
+    * [酷壳](http://coolshell.cn/)(15年软件开发相关工作经验，8年以上项目和团队管理经验)
+    * [池建强](http://macshuo.com/)(现任瑞友科技IT应用研究院副院长)
+    * [刘未鹏](http://mindhacks.cn)
+    * [师北宸](http://shibeichen.com/)
+    * [王聪](http://wangcong.org/blog/)
+    * [张磊](http://www.blogkid.net)
+    * [郭家宝](http://www.byvoid.com/zhs/blog)
+    * [陈硕](http://www.chenshuo.com/)
+    * [冯大辉](http://www.dbanotes.net/)(现在就职于丁香园 (http://dxy.cn) ，担任技术团队负责人.)
+    * [周季](http://www.gocalf.com/blog)
+    * [楼竞](http://www.loujing.com/blog/)
+    * [余晟](http://www.luanxiang.org/blog/)
+    * [阮一峰](http://www.ruanyifeng.com/blog/)
+    * [江东](http://www.storyday.com/)(清华大学计算机系二零一零级本科生，自由意志主义者)
+    * [王建硕](http://www.wangjianshuo.com/)
+    * [王垠](http://www.yinwang.org/)
+    * [谭智军](https://tumutanzi.com/)
+    * [郭霖](http://blog.csdn.net/guolin_blog)
+    * [袁萌](http://blog.csdn.net/yuanmeng001)
+    * [老赵](http://blog.zhaojie.me/)（资深码农）
   * java高质量博客
      * [Adam Bien](http://www.adam-bien.com/roller/abien/)(Java EE相关)
      * [Antonio Goncalves](http://antoniogoncalves.org/)(Java EE相关（《Java EE 5》和《Java EE 7》的作者）)
@@ -77,7 +77,9 @@
      * [Reza Rahman](https://blogs.oracle.com/reza/)(Java EE/Glassfish)
      * [Phil Whelan](http://www.bigfastblog.com/)(Web技术)
      * [Brett Porter](http://brettporter.wordpress.com/)(Apache Maven 2的作者)
- 
+  * Node.js
+     * [田永强](http://diveintonode.org/)(网名:朴灵,Node.js布道者)
+     * [袁锋](http://fengmk2.cnpmjs.org/)(网民:suqian,@python发烧友,CNode.org社区核心成员)
 
 ## 语言无关类
 ### 创业
