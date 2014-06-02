@@ -168,6 +168,7 @@
 ### Ruby
 
   * [Ruby设计模式透析之 —— 单例(Singleton)](http://blog.csdn.net/guolin_blog/article/details/8868758)
+  * [搭建一个自己的Ruby博客系统（toto+heroku+免费域名）](http://ilgnep.iteye.com/blog/695353)
 
 ### Go
   
