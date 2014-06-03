@@ -14,9 +14,6 @@
 
 贡献者名单: https://github.com/edagarli/programming-articles-zh_CN/graphs/contributors
 
-**注**：看到有人 fork 此 repository，其实如果觉得有帮助，可以 star 或者 watch，
-  如果 fork 到你的 repositories 下则不能保证你的 repo 是最新的，除非是主动定期的 pull。
-  star的话，就是收藏。请选择合适的方式。
  
 ## 目录
 
