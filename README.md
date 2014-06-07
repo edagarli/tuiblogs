@@ -21,7 +21,7 @@
 * [语言无关类](#语言无关类)
 * [语言相关类](#语言相关类)
   * [C/C++](#cc)
-  * [CSS/HTML](#CSSHTML)
+  * [CSS/HTML](#ch)
   * [Dart](#dart)
   * [Java](#java)
   * [JavaScript](#javascript)
@@ -123,7 +123,7 @@
   * [C++多线程系统编程精要](http://blog.csdn.net/solstice/article/details/6181488)
   * [C++string用法详解](https://www.byvoid.com/zhs/blog/cpp-string)
 
-### CSSHTML
+### CSS/HTML
 
   * [CSS动画简介](http://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html)
   * [14款震撼人心的HTML5文字特效](http://www.html5tricks.com/15-cool-html5-text-effect.html)
