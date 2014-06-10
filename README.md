@@ -160,6 +160,7 @@
   * [Android Fragment完全解析，关于碎片你所需知道的一切](http://blog.csdn.net/guolin_blog/article/details/8881711)
   * [Android 源码解读](http://blog.csdn.net/column/details/android-source-walk.html)
   * [Android Path Time ScrollBar（Path 时间轴](http://blog.csdn.net/wangjinyu501/article/details/24304261)
+  * [Android Bootstrap：开发也能用模板，省时又省力！](http://www.csdn.net/article/2014-06-09/2820137-android-bootstrap)
 
 ### Python
   
