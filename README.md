@@ -10,9 +10,9 @@
 
 欢迎大家将经常看的优秀博客共享出来，您可以：
 
-* 使用 [Issues](https://github.com/edagarli/programming-articles-zh_CN/issues) 以及 Pull Request 
+* 使用 [Issues](https://github.com/edagarli/tuiblogs/issues) 以及 Pull Request 
 
-贡献者名单: https://github.com/edagarli/programming-articles-zh_CN/graphs/contributors
+贡献者名单: https://github.com/edagarli/tuiblogs/graphs/contributors
 
  
 ## 目录
