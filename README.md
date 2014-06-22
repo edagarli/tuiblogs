@@ -77,6 +77,8 @@
   * Node.js
      * [田永强](http://diveintonode.org/)(网名:朴灵,Node.js布道者)
      * [袁锋](http://fengmk2.cnpmjs.org/)(网民:suqian,@python发烧友,CNode.org社区核心成员)
+  * Go
+     * [Rob Pike](https://plus.google.com/+RobPikeTheHuman/posts)(Google首席工程师、Go语言之父)
 
 ## 语言无关类
 ### 创业
@@ -175,6 +177,7 @@
 ### Go
   
   * [Go在谷歌：以软件工程为目的的语言设计](http://blog.jobbole.com/36480/)
+  * [Go语言之父谈Go：大道至简](http://www.csdn.net/article/2012-07-05/2807113-less-is-exponentially-more)
   
 
 ### 读书笔记及其它
