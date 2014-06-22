@@ -12,8 +12,6 @@
 
 * 使用 [Issues](https://github.com/edagarli/tuiblogs/issues) 以及 Pull Request 
 
-贡献者名单: https://github.com/edagarli/tuiblogs/graphs/contributors
-
  
 ## 目录
 
