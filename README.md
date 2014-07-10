@@ -192,4 +192,5 @@
   * [手机上的两性社交：猎奇、慰藉、交易和表现欲](http://tech2ipo.com/hot/65805)
   * [冯大辉谈丁香园营利模式：赚干净的小钱](http://6d.dxy.cn/article/77438)
   * [写给年轻程序员的一封信](http://news.html5tricks.com/latter-to-young-programmer.html)
+  * [三款开源工具让你的演示脱颖而出](http://code.csdn.net/news/2820582)
   
