@@ -193,4 +193,5 @@
   * [冯大辉谈丁香园营利模式：赚干净的小钱](http://6d.dxy.cn/article/77438)
   * [写给年轻程序员的一封信](http://news.html5tricks.com/latter-to-young-programmer.html)
   * [三款开源工具让你的演示脱颖而出](http://code.csdn.net/news/2820582)
+  * [研发周报：LinkedIn缘何抛弃Ruby，转投NodeJS怀抱](http://www.csdn.net/article/2014-03-28/2819037)
   
