@@ -115,6 +115,11 @@
 * [零基础学习 Hadoop 该如何下手？](http://www.zhihu.com/question/19795366)
 * [Apache Hadoop in 2013: The State of the Platform](http://blog.cloudera.com/blog/2013/01/apache-hadoop-in-2013-the-state-of-the-platform/)
 
+### 数据挖掘
+
+* [pentaho]（http://www.itisbi.com/forum.php）
+
+
 ## 语言相关类
 ### C/C++
 
