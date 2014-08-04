@@ -158,6 +158,7 @@
   * [Cloud Hsu的专栏](http://blog.csdn.net/cloudhsu/article/category/713550)
   * [iOS安全攻防](http://blog.csdn.net/column/details/hackingios.html)
   * [IOS各类顶级资源集锦](http://mobile.51cto.com/iphone-410553.htm)
+  * [IOS projects](http://www.open-open.com/lib/view/open1387098154281.html)
 * Swift
   * [替代Objective-C？Swift尚不成熟](http://www.infoq.com/cn/news/2014/06/swift-developers-think-about)
 
