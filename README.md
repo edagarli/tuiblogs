@@ -168,7 +168,8 @@
   * [Android 源码解读](http://blog.csdn.net/column/details/android-source-walk.html)
   * [Android Path Time ScrollBar（Path 时间轴](http://blog.csdn.net/wangjinyu501/article/details/24304261)
   * [Android Bootstrap：开发也能用模板，省时又省力！](http://www.csdn.net/article/2014-06-09/2820137-android-bootstrap)
-
+  * [Android实现通过手机找回密码](http://www.2cto.com/kf/201307/226609.html)
+   
 ### Python
   
   * [python并行调参——scikit-learn grid_search](http://blog.csdn.net/abcjennifer/article/details/23884761)
