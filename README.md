@@ -160,6 +160,7 @@
   * [iOS安全攻防](http://blog.csdn.net/column/details/hackingios.html)
   * [IOS各类顶级资源集锦](http://mobile.51cto.com/iphone-410553.htm)
   * [IOS projects](http://www.open-open.com/lib/view/open1387098154281.html)
+  * [城市选择器](http://123.th7.cn/code/zhongguoshengshidiquxuanzeqi_582.html)
 * Swift
   * [替代Objective-C？Swift尚不成熟](http://www.infoq.com/cn/news/2014/06/swift-developers-think-about)
 
@@ -170,7 +171,6 @@
   * [Android Path Time ScrollBar（Path 时间轴](http://blog.csdn.net/wangjinyu501/article/details/24304261)
   * [Android Bootstrap：开发也能用模板，省时又省力！](http://www.csdn.net/article/2014-06-09/2820137-android-bootstrap)
   * [Android实现通过手机找回密码](http://www.2cto.com/kf/201307/226609.html)
-  * [城市选择器](http://123.th7.cn/code/zhongguoshengshidiquxuanzeqi_582.html)
    
 ### Python
   
