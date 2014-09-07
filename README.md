@@ -114,6 +114,7 @@
 * [一网打尽18种主流数据库：12种SQL+6种NoSQL](http://www.csdn.net/article/2012-07-26/2807745)
 * [零基础学习 Hadoop 该如何下手？](http://www.zhihu.com/question/19795366)
 * [Apache Hadoop in 2013: The State of the Platform](http://blog.cloudera.com/blog/2013/01/apache-hadoop-in-2013-the-state-of-the-platform/)
+* [基于Storm的Nginx log实时监控系统](http://tech.uc.cn/?p=2866)
 
 ### 数据挖掘
 
