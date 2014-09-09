@@ -143,6 +143,7 @@
   * [The Pain of Broken Subprocess Management on JDK](http://blog.headius.com/2013/06/the-pain-of-broken-subprocess.html)
   * [http://www.programcreek.com/](http://www.programcreek.com/)(一个专注于java的网站)
   * [痛苦的Java程序员](http://ourjs.com/detail/53dbb5292ee109090700000c)
+  * [轻量级工作流引擎snaker 2.0.0发布](http://www.iteye.com/news/29196-workflow-snaker-snakerflow)
 
 ### JavaScript
 * Node.js
