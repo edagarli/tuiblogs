@@ -120,6 +120,9 @@
 
 * [pentaho]（http://www.itisbi.com/forum.php）
 
+### 运维
+
+* [服务器搭建] (http://my.oschina.net/biezhi/blog/287684)
 
 ## 语言相关类
 ### C/C++
