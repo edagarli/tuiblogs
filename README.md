@@ -5,9 +5,6 @@
 
 优秀的计算机编程类博客是一些关于计算机方面的优秀博客。
 
-
-
-
 欢迎大家将经常看的优秀博客共享出来，您可以：
 
 * 使用 [Issues](https://github.com/edagarli/tuiblogs/issues) 以及 Pull Request 
@@ -108,6 +105,7 @@
 * [Justproto：Linux下Axure的替代方案](http://dmyz.org/archives/316)
 * [最受欢迎的游戏引擎集结号：小白篇](http://www.csdn.net/article/2014-05-19/2819828-Simple-and-easy-game-engines)
 * [笑喷了！15个极具创意的自定义 404 错误页面](http://www.cnblogs.com/lhb25/p/404-error-page-design-examples.html)
+* [Oh, How Pinteresting!](http://blog.pinterest.com/)
 
 ### 云计算
 
