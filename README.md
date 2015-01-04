@@ -216,4 +216,5 @@
   * [社区](http://get.jobdeer.com)
   * [颜色工具](http://hex.colorrrs.com/)
   * [简书](http://www.jianshu.com/)
+  * [阿里、腾讯以及一些创业公司是如何进行研发管理和绩效考核的？](http://m.huxiu.com/article/105275/1.html?from=singlemessage&isappinstalled=0)
   
