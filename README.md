@@ -166,6 +166,7 @@
   * [IOS各类顶级资源集锦](http://mobile.51cto.com/iphone-410553.htm)
   * [IOS projects](http://www.open-open.com/lib/view/open1387098154281.html)
   * [城市选择器](http://123.th7.cn/code/zhongguoshengshidiquxuanzeqi_582.html)
+  * [100个iOS开发/设计面试题汇总，你将如何作答？](http://www.csdn.net/article/2015-01-19/2823604-ios-interview-questions)
 * Swift
   * [替代Objective-C？Swift尚不成熟](http://www.infoq.com/cn/news/2014/06/swift-developers-think-about)
 
