@@ -74,6 +74,8 @@
      * [袁锋](http://fengmk2.cnpmjs.org/)(网民:suqian,@python发烧友,CNode.org社区核心成员)
   * Go
      * [Rob Pike](https://plus.google.com/+RobPikeTheHuman/posts)(Google首席工程师、Go语言之父)
+  * iOS 
+     * [唐巧的技术博客](http://blog.devtang.com/blog/archives/)（猿题库iOS开发工程师）
 
 ## 语言无关类
 ### 创业
