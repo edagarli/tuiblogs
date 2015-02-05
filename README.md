@@ -125,6 +125,10 @@
 
 * [服务器搭建] (http://my.oschina.net/biezhi/blog/287684)
 
+### 测试
+
+* [测试] (http://www.bejson.com/go.html?u=http://www.bejson.com/httppost/)
+
 ## 语言相关类
 ### C/C++
 
