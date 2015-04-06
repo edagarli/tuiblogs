@@ -120,7 +120,9 @@
 ### 数据挖掘
 
 * [pentaho]（http://www.itisbi.com/forum.php）
-
+### 数据库
+  
+* [PostgreSQL 中文资料汇总  ] (http://francs3.blog.163.com/blog/static/405767272014017341219/)
 ### 运维
 
 * [服务器搭建] (http://my.oschina.net/biezhi/blog/287684)
