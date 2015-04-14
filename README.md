@@ -109,6 +109,7 @@
 * [笑喷了！15个极具创意的自定义 404 错误页面](http://www.cnblogs.com/lhb25/p/404-error-page-design-examples.html)
 * [Oh, How Pinteresting!](http://blog.pinterest.com/)
 * [快速制作响应式网站](http://www.coolsite360.com/)
+* [UI Designer](http://blog.akanelee.me/)
 
 ### 云计算
 
