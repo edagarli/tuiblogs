@@ -131,6 +131,7 @@
 ### 测试
 
 * [测试] (http://www.bejson.com/go.html?u=http://www.bejson.com/httppost/)
+* [前端自动化测试](http://fex.baidu.com/blog/2015/07/front-end-test/)
 
 ## 语言相关类
 ### C/C++
