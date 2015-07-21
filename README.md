@@ -78,7 +78,7 @@
      * [唐巧的技术博客](http://blog.devtang.com/blog/archives/)（猿题库iOS开发工程师）
 
 ## 语言无关类
-### 创业
+### 创业非技术
 
 * [用专业语言表达，用通用语言沟通](http://home.wangjianshuo.com/cn/20100524_aeeeie_caee.htm)
 * [经济形势这么差为什么要创业——Why to Start a Startup in a Bad Economy](http://blog.csdn.net/edagarli/article/details/22201585)
@@ -87,6 +87,10 @@
 * [5个方法创建特别的团队文化](http://www.cyzone.cn/a/20131103/246701.html)
 * [17个浪费你创业成功机会的小错误](http://www.cyzone.cn/a/20140518/257840.html)
 * [Twitter战略总监：如何挑选出伟大的联合创始人？](http://www.csdn.net/article/2014-05-16/2819798-Co-founder)
+
+###创业技术
+
+*[一个社交App是如何构建高伸缩性的交互式系统](http://www.csdn.net/article/2015-07-12/2825185)
 
 ### GEEK
 
