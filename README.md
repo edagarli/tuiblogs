@@ -138,6 +138,10 @@
 * [测试] (http://www.bejson.com/go.html?u=http://www.bejson.com/httppost/)
 * [前端自动化测试](http://fex.baidu.com/blog/2015/07/front-end-test/)
 
+### blog
+
+* [如何在一天之内搭建以你自己名字为域名的很 cool 的个人博客](http://gold.xitu.io/entry/56657fe160b202595a6f8ef6)
+
 ## 语言相关类
 ### C/C++
 
