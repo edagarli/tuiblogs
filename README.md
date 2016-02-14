@@ -5,7 +5,7 @@
 
 优秀的计算机编程类博客是一些关于计算机方面的优秀博客。
 
-欢迎大家将经常看的优秀博客共享出来，您可以：
+欢迎大家将经常看的优秀博客或博客文章共享出来，您可以：
 
 * 使用 [Issues](https://github.com/edagarli/tuiblogs/issues) 以及 Pull Request 
 
