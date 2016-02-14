@@ -131,6 +131,7 @@
 ### 运维
 
 * [服务器搭建] (http://my.oschina.net/biezhi/blog/287684)
+* [日志记录最佳实践](http://www.cnblogs.com/twocats/p/3180401.html)
 
 ### 测试
 
