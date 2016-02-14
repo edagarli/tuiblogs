@@ -132,6 +132,7 @@
 
 * [服务器搭建] (http://my.oschina.net/biezhi/blog/287684)
 * [日志记录最佳实践](http://www.cnblogs.com/twocats/p/3180401.html)
+* [Nginx+KV db进行AB灰度测试](http://os.51cto.com/art/201207/349069.htm)
 
 ### 测试
 
