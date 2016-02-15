@@ -130,9 +130,10 @@
 * [PostgreSQL 中文资料汇总  ] (http://francs3.blog.163.com/blog/static/405767272014017341219/)
 ### 运维
 
-* [服务器搭建] (http://my.oschina.net/biezhi/blog/287684)
+* [服务器搭建](http://my.oschina.net/biezhi/blog/287684)
 * [日志记录最佳实践](http://www.cnblogs.com/twocats/p/3180401.html)
 * [Nginx+KV db进行AB灰度测试](http://os.51cto.com/art/201207/349069.htm)
+* [AB测试和灰度发布平台架构设计和实践](http://topic.it168.com/factory/adc2013/doc/oucheng.pdf)
 
 ### 测试
 
