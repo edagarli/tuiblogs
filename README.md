@@ -147,6 +147,10 @@
 
 * [如何在一天之内搭建以你自己名字为域名的很 cool 的个人博客](http://gold.xitu.io/entry/56657fe160b202595a6f8ef6)
 
+### VPS
+
+* [bandwagonhost](https://bandwagonhost.com/)(一年才10几刀)
+
 ## 语言相关类
 ### C/C++
 
