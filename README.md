@@ -50,7 +50,6 @@
     * [王建硕](http://www.wangjianshuo.com/)
     * [王垠](http://www.yinwang.org/)
     * [谭智军](https://tumutanzi.com/)
-    * [郭霖](http://blog.csdn.net/guolin_blog)
     * [袁萌](http://blog.csdn.net/yuanmeng001)
     * [老赵](http://blog.zhaojie.me/)（资深码农）
   * java高质量博客
@@ -69,13 +68,46 @@
      * [Reza Rahman](https://blogs.oracle.com/reza/)(Java EE/Glassfish)
      * [Phil Whelan](http://www.bigfastblog.com/)(Web技术)
      * [Brett Porter](http://brettporter.wordpress.com/)(Apache Maven 2的作者)
-  * Node.js
+  * 全栈
      * [田永强](http://diveintonode.org/)(网名:朴灵,Node.js布道者)
      * [袁锋](http://fengmk2.cnpmjs.org/)(网民:suqian,@python发烧友,CNode.org社区核心成员)
-  * Go
+  * 后端
      * [Rob Pike](https://plus.google.com/+RobPikeTheHuman/posts)(Google首席工程师、Go语言之父)
+     * [风雪之隅](http://www.laruence.com/)-Laruence的博客。博主为微博平台架构师，PHP大牛，网站有很多关于PHP的技术分享。
+     * [后端技术 by Tim Yang](http://timyang.net/)。博主也是大牛一枚，关注架构及互联网技术，服务于微博技术团队，新浪（集团）技术委员会及微博技术委员会委员。
+     * [cenalulu's Tech Blog](http://cenalulu.github.io/)
   * iOS 
      * [唐巧的技术博客](http://blog.devtang.com/blog/archives/)（猿题库iOS开发工程师）
+     * [objc中国](http://objccn.io/)
+     * [iOS - 伯乐在线](http://ios.jobbole.com/)
+     * [破船之家](http://beyondvincent.com/)
+     * [Glow 技术团队博客](http://tech.glowing.com/cn/)
+     * [coderyi](http://www.coderyi.com/)
+  * 前端
+     * [Yuguo Blog](http://yuguo.us/) - 腾讯前端工程师的博客
+     * [JerryQu 的小站](https://imququ.com/) - 专注 WEB 端开发。
+     * [前端观察](http://www.qianduan.net/) - 专注于网站前端设计与前端开发。
+     * [WEB前端 - 伯乐在线](http://web.jobbole.com/)
+     * [StrayBugs](http://www.crimx.com/) ——读书以养节操。这个博客很多关于前端的知识收集总结，比如HTML5，Javascript等方面的周刊。
+     * [Articles | Leo Deng](http://myst729.github.io/articles/)
+     * [Tutorialzine](http://tutorialzine.com/) - Web Development Tutorials & Resources
+     * [Collections ♥ Scotch](https://scotch.io/collections)
+  * Android
+     * [AndroidDevTools](http://www.androiddevtools.cn/)
+     * [代码家](http://blog.daimajia.com/)
+     * [stormzhang博客精华](http://www.stormzhang.com/)
+     * [胡凯](http://hukai.me/)
+     * [老罗的Android之旅](http://blog.csdn.net/luoshengyang)
+     * [Trinea](http://www.trinea.cn/)
+     * [安卓 - 伯乐在线](http://android.jobbole.com/)
+     * [Styling Android](http://blog.stylingandroid.com/) - A techical guide to to improving the UI and UX Android apps
+     * [Android Performance](http://www.grackertalk.com/)
+     * [Kunka - Tikitoo Blog](http://tikitoo.github.io/)
+     * [SIMPLE DEVELOPER](http://simpledeveloper.com/) - Making Sense of The Complex Universe
+     * [郭霖的专栏](http://blog.csdn.net/guolin_blog)
+     * [小刚](http://keeganlee.me/)
+     
+## 优秀文章
 
 ## 语言无关类
 ### 创业非技术
