@@ -106,7 +106,19 @@
      * [SIMPLE DEVELOPER](http://simpledeveloper.com/) - Making Sense of The Complex Universe
      * [郭霖的专栏](http://blog.csdn.net/guolin_blog)
      * [小刚](http://keeganlee.me/)
-     
+  * Security
+     * [乌云知识库](http://drops.wooyun.org/)
+     * [FreeBuf](http://www.freebuf.com/)
+     * [开放安全研究](http://blog.opensecurityresearch.com/)
+     * [斯坦福大学密码安全学课程](https://crypto.stanford.edu/)
+     * [中国科大计算机安全课程资料](http://staff.ustc.edu.cn/~sycheng/cs/)
+     * [信息安全入门指南-伯乐在线](http://blog.jobbole.com/48738/)
+  * Python 
+     * [Python Wiki](https://wiki.python.org/moin/)
+     * [Python全栈开发](http://www.fullstackpython.com/)
+     * [Python一站式学习](https://pythonpedia.com/)
+     * [零基础学Python系列](http://segmentfault.com/u/qiwsir/)
+     * [Python编程风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/python_style_rules)
 ## 优秀文章
 
 ## 语言无关类
