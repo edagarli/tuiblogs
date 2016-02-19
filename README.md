@@ -182,6 +182,7 @@
 * [Nginx+KV db进行AB灰度测试](http://os.51cto.com/art/201207/349069.htm)
 * [AB测试和灰度发布平台架构设计和实践](http://topic.it168.com/factory/adc2013/doc/oucheng.pdf)
 * [技术揭秘大众点评大规模并行AB测试框架Gemini](http://www.csdn.net/article/2015-03-26/2824303)
+* [tomcat结合nginx使用小结](http://cxshun.iteye.com/blog/1535188)
 
 ### 测试
 
@@ -288,7 +289,6 @@
   * [三款开源工具让你的演示脱颖而出](http://code.csdn.net/news/2820582)
   * [研发周报：LinkedIn缘何抛弃Ruby，转投NodeJS怀抱](http://www.csdn.net/article/2014-03-28/2819037)
   * [ANDROID 微博登录“SSO PACKAGE OR SIGN ERROR” 错误解决方案](http://blog.d8in.com/1397)
-  * [tomcat结合nginx使用小结](http://cxshun.iteye.com/blog/1535188)
   * [swifttype](https://swiftype.com)
   * [0代码、不编程—交互式网页设计工具VXPLO](http://www.vxplo.cn/home)
   * [社区](http://get.jobdeer.com)
