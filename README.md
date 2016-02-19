@@ -255,6 +255,9 @@
 ### Python
   
   * [python并行调参——scikit-learn grid_search](http://blog.csdn.net/abcjennifer/article/details/23884761)
+
+### PHP
+ 
   * [php内核探索方法与资源](http://blog.csdn.net/21aspnet/article/details/8197130)
 
 ### Ruby
