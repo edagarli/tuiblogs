@@ -159,6 +159,7 @@
 * [Oh, How Pinteresting!](http://blog.pinterest.com/)
 * [快速制作响应式网站](http://www.coolsite360.com/)
 * [UI Designer](http://blog.akanelee.me/)
+* [很好玩的火锅菜单原型](http://share.framerjs.com/xs30eu4ac4sr/)
 
 ### 云计算
 
