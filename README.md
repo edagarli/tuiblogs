@@ -39,10 +39,10 @@
     * [师北宸](http://shibeichen.com/)
     * [王聪](http://wangcong.org/blog/)
     * [张磊](http://www.blogkid.net)
-    * [郭家宝](http://www.byvoid.com/zhs/blog)
+    * [郭家宝](https://www.byvoid.com/zhs/blog)
     * [陈硕](http://www.chenshuo.com/)
-    * [冯大辉](http://www.dbanotes.net/)(现在就职于丁香园 (http://dxy.cn) ，担任技术团队负责人.)
-    * [周季](http://www.gocalf.com/blog)
+    * [冯大辉](http://dbanotes.net/)(现在就职于丁香园 (http://www.dxy.cn/) ，担任技术团队负责人.)
+    * [周季](http://www.gocalf.com/blog/)
     * [楼竞](http://www.loujing.com/blog/)
     * [余晟](http://www.luanxiang.org/blog/)
     * [阮一峰](http://www.ruanyifeng.com/blog/)
@@ -58,19 +58,19 @@
      * [Henrik Warne](http://henrikwarne.com/)(编程过程中的一些思考)
      * [Billy Yarosh](http://keaplogik.blogspot.com/)(Java日常开发中的实用代码示例)
      * [Lars Vogel](http://www.vogella.com/)(Java、Android 和Eclipse)
-     * [Peter Verhas](http://javax0.wordpress.com/)(纯粹的Java)
+     * [Peter Verhas](https://javax0.wordpress.com/)(纯粹的Java)
      * [Martin Fowler](http://martinfowler.com/)(面向对象设计专家和咨询师)
      * [Bozhidar Bozhanov](http://techblog.bozho.net/)(Java EE相关)
-     * [Richard Warburton](http://insightfullogic.com/blog/)(Java 8 Lambdas)
-     * [Bear Giles](http://invariantproperties.com/)(Java EE相关)
+     * [Richard Warburton](http://insightfullogic.com/)(Java 8 Lambdas)
+     * [Bear Giles](https://invariantproperties.com)(Java EE相关)
      * [Dror Helper](http://blog.mikiobraun.de/)(代码测试和代码质量)
      * [Juri Strumpflohner](http://juristr.com/)(JavaScript)
      * [Reza Rahman](https://blogs.oracle.com/reza/)(Java EE/Glassfish)
      * [Phil Whelan](http://www.bigfastblog.com/)(Web技术)
-     * [Brett Porter](http://brettporter.wordpress.com/)(Apache Maven 2的作者)
+     * [Brett Porter](https://brettporter.wordpress.com/)(Apache Maven 2的作者)
   * 全栈
      * [田永强](http://diveintonode.org/)(网名:朴灵,Node.js布道者)
-     * [袁锋](http://fengmk2.cnpmjs.org/)(网民:suqian,@python发烧友,CNode.org社区核心成员)
+     * [袁锋](http://fengmk2.com)(网民:suqian,@python发烧友,CNode.org社区核心成员)
   * 后端
      * [Rob Pike](https://plus.google.com/+RobPikeTheHuman/posts)(Google首席工程师、Go语言之父)
      * [风雪之隅](http://www.laruence.com/)-Laruence的博客。博主为微博平台架构师，PHP大牛，网站有很多关于PHP的技术分享。
@@ -84,14 +84,14 @@
      * [Glow 技术团队博客](http://tech.glowing.com/cn/)
      * [coderyi](http://www.coderyi.com/)
   * 前端
-     * [Yuguo Blog](http://yuguo.us/) - 腾讯前端工程师的博客
+     * [Yuguo Blog](https://yuguo.us/) - 腾讯前端工程师的博客
      * [JerryQu 的小站](https://imququ.com/) - 专注 WEB 端开发。
-     * [前端观察](http://www.qianduan.net/) - 专注于网站前端设计与前端开发。
+     * [前端观察](https://www.qianduan.net/) - 专注于网站前端设计与前端开发。
      * [WEB前端 - 伯乐在线](http://web.jobbole.com/)
      * [StrayBugs](http://www.crimx.com/) ——读书以养节操。这个博客很多关于前端的知识收集总结，比如HTML5，Javascript等方面的周刊。
      * [Articles | Leo Deng](http://myst729.github.io/articles/)
      * [Tutorialzine](http://tutorialzine.com/) - Web Development Tutorials & Resources
-     * [Collections ♥ Scotch](https://scotch.io/collections)
+     * [Collections ♥ Scotch](https://scotch.io/courses)
   * Android
      * [AndroidDevTools](http://www.androiddevtools.cn/)
      * [代码家](http://blog.daimajia.com/)
@@ -100,8 +100,8 @@
      * [老罗的Android之旅](http://blog.csdn.net/luoshengyang)
      * [Trinea](http://www.trinea.cn/)
      * [安卓 - 伯乐在线](http://android.jobbole.com/)
-     * [Styling Android](http://blog.stylingandroid.com/) - A techical guide to to improving the UI and UX Android apps
-     * [Android Performance](http://www.grackertalk.com/)
+     * [Styling Android](https://blog.stylingandroid.com) - A techical guide to to improving the UI and UX Android apps
+     * [Android Performance](http://androidperformance.com)
      * [Kunka - Tikitoo Blog](http://tikitoo.github.io/)
      * [SIMPLE DEVELOPER](http://simpledeveloper.com/) - Making Sense of The Complex Universe
      * [郭霖的专栏](http://blog.csdn.net/guolin_blog)
@@ -117,7 +117,7 @@
      * [Python Wiki](https://wiki.python.org/moin/)
      * [Python全栈开发](http://www.fullstackpython.com/)
      * [Python一站式学习](https://pythonpedia.com/)
-     * [零基础学Python系列](http://segmentfault.com/u/qiwsir/)
+     * [零基础学Python系列](https://segmentfault.com/u/qiwsir)
      * [Python编程风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/python_style_rules)
      
 ## 优秀文章
@@ -210,7 +210,7 @@
   * [CSS动画简介](http://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html)
   * [14款震撼人心的HTML5文字特效](http://www.html5tricks.com/15-cool-html5-text-effect.html)
   * [Javascript gesture recognition](http://webcodingeasy.com/JS-classes/Javascript-gesture-recognition)
-  * [css-tricks](http://css-tricks.com/centering-css-complete-guide/)
+  * [css-tricks](https://css-tricks.com/centering-css-complete-guide/)
  
 
 ### Java
@@ -290,8 +290,8 @@
   * [研发周报：LinkedIn缘何抛弃Ruby，转投NodeJS怀抱](http://www.csdn.net/article/2014-03-28/2819037)
   * [ANDROID 微博登录“SSO PACKAGE OR SIGN ERROR” 错误解决方案](http://blog.d8in.com/1397)
   * [swifttype](https://swiftype.com)
-  * [0代码、不编程—交互式网页设计工具VXPLO](http://www.vxplo.cn/home)
-  * [社区](http://get.jobdeer.com)
+  * [0代码、不编程—交互式网页设计工具VXPLO](http://www.ih5.cn/home)
+  * [社区](http://get.ftqq.com/)
   * [颜色工具](http://hex.colorrrs.com/)
   * [简书](http://www.jianshu.com/)
   * [阿里、腾讯以及一些创业公司是如何进行研发管理和绩效考核的？](http://m.huxiu.com/article/105275/1.html?from=singlemessage&isappinstalled=0)
