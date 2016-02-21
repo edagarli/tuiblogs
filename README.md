@@ -228,6 +228,7 @@
    * [告别node-forever,拥抱PM2](http://www.oschina.net/translate/goodbye-node-forever-hello-pm2)
    * [叩首问路，码梦为生——QCon北京2013 Node.js专题出品人朴灵专访](http://www.infoq.com/cn/news/2013/01/qcon-beijing-nodejs-interview/)
    * [当IoC遇见了Node.js](http://www.infoq.com/cn/articles/ioc-meet-nodejs)
+   * [美团酒店Node全栈开发实践](http://tech.meituan.com/node-fullstack-development-practice.html)
 
 * AngularJS
    * [AngularJS Tutorial – Learn AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
