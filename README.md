@@ -119,6 +119,7 @@
      * [Python一站式学习](https://pythonpedia.com/)
      * [零基础学Python系列](https://segmentfault.com/u/qiwsir)
      * [Python编程风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/python_style_rules)
+     * [Python Resource](http://dylanninin.com/blog/2013/11/23/python_resource.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
      
 ## 优秀文章
 
