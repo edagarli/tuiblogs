@@ -175,6 +175,7 @@
 ### 数据库
   
 * [PostgreSQL 中文资料汇总  ] (http://francs3.blog.163.com/blog/static/405767272014017341219/)
+* [为啥HBase需要搭建SQL引擎层](http://blog.edagarli.com/2016/02/12/%E4%B8%BA%E5%95%A5HBase%E9%9C%80%E8%A6%81%E6%90%AD%E5%BB%BASQL%E5%BC%95%E6%93%8E%E5%B1%82/)
 
 ### 运维
 
