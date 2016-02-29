@@ -149,6 +149,7 @@
 ### 算法
 
 * [网页正文提取算法介绍](http://www.cnblogs.com/phoenixnudt/articles/2382140.html)
+* [12306出票的一种算法设计](http://gfzeng.github.io/#!/posts/yet-another-12306-design-way.org?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ### 设计
 
