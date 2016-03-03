@@ -179,6 +179,10 @@
 * [PostgreSQL 中文资料汇总  ] (http://francs3.blog.163.com/blog/static/405767272014017341219/)
 * [为啥HBase需要搭建SQL引擎层](http://blog.edagarli.com/2016/02/12/%E4%B8%BA%E5%95%A5HBase%E9%9C%80%E8%A6%81%E6%90%AD%E5%BB%BASQL%E5%BC%95%E6%93%8E%E5%B1%82/)
 
+### 分布式
+
+* [大众点评订单分库分表实践之路](http://mp.weixin.qq.com/s?__biz=MzI4NTA1MDEwNg==&mid=402525487&idx=1&sn=9c1bccf857a624dedec743f54c66a98c)
+
 ### 运维
 
 * [服务器搭建](http://my.oschina.net/biezhi/blog/287684)
