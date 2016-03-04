@@ -205,6 +205,10 @@
 
 * [bandwagonhost](https://bandwagonhost.com/)(一年才10几刀)
 
+### Redis
+
+* [redis-migration：独创的redis在线数据迁移工具](http://www.bitstech.net/2016/03/03/redis-migration/)
+
 ## 语言相关类
 ### C/C++
 
