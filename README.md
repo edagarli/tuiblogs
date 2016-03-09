@@ -284,7 +284,10 @@
   
   * [Go在谷歌：以软件工程为目的的语言设计](http://blog.jobbole.com/36480/)
   * [Go语言之父谈Go：大道至简](http://www.csdn.net/article/2012-07-05/2807113-less-is-exponentially-more)
-  
+
+### 架构
+ 
+  * [从无到有：微信后台系统的演进之路](http://www.infoq.com/cn/articles/the-road-of-the-growth-weixin-background)
 
 ### 读书笔记及其它
   
