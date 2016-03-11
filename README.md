@@ -313,3 +313,7 @@
   * [简书](http://www.jianshu.com/)
   * [阿里、腾讯以及一些创业公司是如何进行研发管理和绩效考核的？](http://m.huxiu.com/article/105275/1.html?from=singlemessage&isappinstalled=0)
   
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/edagarli/tuiblogs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
