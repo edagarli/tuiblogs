@@ -210,6 +210,10 @@
 
 * [redis-migration：独创的redis在线数据迁移工具](http://www.bitstech.net/2016/03/03/redis-migration/)
 
+### 工具
+
+* [IntelliJ IDEA 15激活码破解](http://www.iteblog.com/archives/1542)
+
 ## 语言相关类
 ### C/C++
 
