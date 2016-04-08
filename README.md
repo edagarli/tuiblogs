@@ -297,6 +297,7 @@
   * [从无到有：微信后台系统的演进之路](http://www.infoq.com/cn/articles/the-road-of-the-growth-weixin-background)
   * [1号店订单系统水平分库的实践之路以及关键步骤](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=410639241&idx=1&sn=f7fd55588d4805ec4fc8cef2402ce9e5&scene=0#wechat_redirect)
   * [一个可供创业公司参考的移动APP服务端架构演进方案](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=410893519&idx=1&sn=4e47f8131886241b2d8a9de903986c1c&scene=1&srcid=0402MwlbUzHcsAJ2k3D1ObGR&from=groupmessage&isappinstalled=0#wechat_redirect)
+  * [抓住六个点，谈唯品会的峰值系统应对实践](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=411068787&idx=1&sn=b49de92e29660385d5801a9b126269c3&scene=0#wechat_redirect)
 
 ### 读书笔记及其它
   
