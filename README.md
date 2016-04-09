@@ -214,6 +214,10 @@
 
 * [IntelliJ IDEA 15激活码破解](http://www.iteblog.com/archives/1542)
 
+### 搜索引擎
+
+* [用Golang写一个搜索引擎 ( 0x00 )](https://mp.weixin.qq.com/s?__biz=MjM5ODczNTkwMA==&mid=402541286&idx=1&sn=060f010bf88b554d33cd4c0e3152bd30&scene=0&key=b28b03434249256b6dc184d5536497fdd35941bf2788c0d43138c15ef3a04586504159628bc8ad3578b4a82505463101&ascene=0&uin=MTAyMTA2&devicetype=iMac+MacBookPro10%2C2+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=dUBIrgZ7DM9%2BbE072Vo5IWHHUxMfOGPPwgwQIH5FBjI%3D)
+
 ## 语言相关类
 ### C/C++
 
@@ -291,6 +295,7 @@
   
   * [Go在谷歌：以软件工程为目的的语言设计](http://blog.jobbole.com/36480/)
   * [Go语言之父谈Go：大道至简](http://www.csdn.net/article/2012-07-05/2807113-less-is-exponentially-more)
+  * [用Golang写一个搜索引擎 ( 0x00 )](https://mp.weixin.qq.com/s?__biz=MjM5ODczNTkwMA==&mid=402541286&idx=1&sn=060f010bf88b554d33cd4c0e3152bd30&scene=0&key=b28b03434249256b6dc184d5536497fdd35941bf2788c0d43138c15ef3a04586504159628bc8ad3578b4a82505463101&ascene=0&uin=MTAyMTA2&devicetype=iMac+MacBookPro10%2C2+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=dUBIrgZ7DM9%2BbE072Vo5IWHHUxMfOGPPwgwQIH5FBjI%3D)
 
 ### 架构
  
