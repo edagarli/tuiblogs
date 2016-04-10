@@ -218,6 +218,10 @@
 
 * [用Golang写一个搜索引擎 ( 0x00 )](https://mp.weixin.qq.com/s?__biz=MjM5ODczNTkwMA==&mid=402541286&idx=1&sn=060f010bf88b554d33cd4c0e3152bd30&scene=0&key=b28b03434249256b6dc184d5536497fdd35941bf2788c0d43138c15ef3a04586504159628bc8ad3578b4a82505463101&ascene=0&uin=MTAyMTA2&devicetype=iMac+MacBookPro10%2C2+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=dUBIrgZ7DM9%2BbE072Vo5IWHHUxMfOGPPwgwQIH5FBjI%3D)
 
+### 机器学习
+
+* [机器学习博客推荐](http://t.cn/RqtDZwq)
+
 ## 语言相关类
 ### C/C++
 
