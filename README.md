@@ -222,6 +222,10 @@
 
 * [机器学习博客推荐](http://t.cn/RqtDZwq)
 
+### 安全
+
+* [不怕得罪人地推荐这9本黑客书籍](http://mp.weixin.qq.com/s?__biz=MzA3NTEzMTUwNA==&mid=2651081053&idx=1&sn=b2301efeb14a142646be4282073f8dfd&scene=0#wechat_redirect)
+
 ## 语言相关类
 ### C/C++
 
