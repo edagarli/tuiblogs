@@ -293,6 +293,7 @@
 ### PHP
  
   * [php内核探索方法与资源](http://blog.csdn.net/21aspnet/article/details/8197130)
+  * [PHP程序员的技术成长规划](http://blog.leanote.com/post/darker/PHP%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%8A%80%E6%9C%AF%E6%88%90%E9%95%BF%E8%A7%84%E5%88%92-3)
 
 ### Ruby
 
