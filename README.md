@@ -249,6 +249,7 @@
   * [http://www.programcreek.com/](http://www.programcreek.com/)(一个专注于java的网站)
   * [痛苦的Java程序员](http://ourjs.com/detail/53dbb5292ee109090700000c)
   * [轻量级工作流引擎snaker 2.0.0发布](http://www.iteye.com/news/29196-workflow-snaker-snakerflow)
+  * [我的Java后端书架](http://calvin1978.blogcn.com/articles/javabookshelf.html)
 
 ### JavaScript
 * Node.js
