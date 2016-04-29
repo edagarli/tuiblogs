@@ -141,6 +141,7 @@
 
 * [少年心气 － 艾伦·斯沃兹(Aaron Swartz) 的传奇](http://dbanotes.net/geek/aaron-swartz_smells-like-teen-spirit.html)
 * [全栈程序员伤不起](http://www.itjhwd.com/fsd-cxy/)
+* [黑科技：程序员如何打造属于自己的分体键盘](http://bugly.qq.com/bbs/forum.php)
 
 ### 互联网哲学
 
