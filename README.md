@@ -8,7 +8,6 @@
 欢迎大家将经常看的优秀博客或博客文章共享出来，您可以：
 
 * 使用 [Issues](https://github.com/edagarli/tuiblogs/issues) 以及 Pull Request 
-
  
 ## 目录
 
@@ -250,6 +249,7 @@
   * [痛苦的Java程序员](http://ourjs.com/detail/53dbb5292ee109090700000c)
   * [轻量级工作流引擎snaker 2.0.0发布](http://www.iteye.com/news/29196-workflow-snaker-snakerflow)
   * [我的Java后端书架](http://calvin1978.blogcn.com/articles/javabookshelf.html)
+  * [另一份Java应用调优指南之－工具篇](http://calvin1978.blogcn.com/articles/perf-tunning-2.html)
 
 ### JavaScript
 * Node.js
