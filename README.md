@@ -119,10 +119,20 @@
      * [零基础学Python系列](https://segmentfault.com/u/qiwsir)
      * [Python编程风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/python_style_rules)
      * [Python Resource](http://dylanninin.com/blog/2013/11/23/python_resource.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+  * Redis
+    * [黄健宏](http://blog.huangz.me/)(《Redis命令参考》和《Redis实战》的译者，《Redis设计与实现》的作者)
      
 ## 优秀文章
 
 ## 语言无关类
+### 架构
+ 
+  * [从无到有：微信后台系统的演进之路](http://www.infoq.com/cn/articles/the-road-of-the-growth-weixin-background)
+  * [1号店订单系统水平分库的实践之路以及关键步骤](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=410639241&idx=1&sn=f7fd55588d4805ec4fc8cef2402ce9e5&scene=0#wechat_redirect)
+  * [一个可供创业公司参考的移动APP服务端架构演进方案](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=410893519&idx=1&sn=4e47f8131886241b2d8a9de903986c1c&scene=1&srcid=0402MwlbUzHcsAJ2k3D1ObGR&from=groupmessage&isappinstalled=0#wechat_redirect)
+  * [抓住六个点，谈唯品会的峰值系统应对实践](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=411068787&idx=1&sn=b49de92e29660385d5801a9b126269c3&scene=0#wechat_redirect)
+  * [大众点评支付渠道网关系统的实践之路](http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html)
+ 
 ### 创业非技术
 
 * [用专业语言表达，用通用语言沟通](http://home.wangjianshuo.com/cn/20100524_aeeeie_caee.htm)
@@ -307,14 +317,6 @@
   * [Go在谷歌：以软件工程为目的的语言设计](http://blog.jobbole.com/36480/)
   * [Go语言之父谈Go：大道至简](http://www.csdn.net/article/2012-07-05/2807113-less-is-exponentially-more)
   * [用Golang写一个搜索引擎 ( 0x00 )](https://mp.weixin.qq.com/s?__biz=MjM5ODczNTkwMA==&mid=402541286&idx=1&sn=060f010bf88b554d33cd4c0e3152bd30&scene=0&key=b28b03434249256b6dc184d5536497fdd35941bf2788c0d43138c15ef3a04586504159628bc8ad3578b4a82505463101&ascene=0&uin=MTAyMTA2&devicetype=iMac+MacBookPro10%2C2+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=dUBIrgZ7DM9%2BbE072Vo5IWHHUxMfOGPPwgwQIH5FBjI%3D)
-
-### 架构
- 
-  * [从无到有：微信后台系统的演进之路](http://www.infoq.com/cn/articles/the-road-of-the-growth-weixin-background)
-  * [1号店订单系统水平分库的实践之路以及关键步骤](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=410639241&idx=1&sn=f7fd55588d4805ec4fc8cef2402ce9e5&scene=0#wechat_redirect)
-  * [一个可供创业公司参考的移动APP服务端架构演进方案](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=410893519&idx=1&sn=4e47f8131886241b2d8a9de903986c1c&scene=1&srcid=0402MwlbUzHcsAJ2k3D1ObGR&from=groupmessage&isappinstalled=0#wechat_redirect)
-  * [抓住六个点，谈唯品会的峰值系统应对实践](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=411068787&idx=1&sn=b49de92e29660385d5801a9b126269c3&scene=0#wechat_redirect)
-  * [大众点评支付渠道网关系统的实践之路](http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html)
 
 ### 读书笔记及其它
   
