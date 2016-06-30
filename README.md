@@ -132,6 +132,7 @@
   * [一个可供创业公司参考的移动APP服务端架构演进方案](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=410893519&idx=1&sn=4e47f8131886241b2d8a9de903986c1c&scene=1&srcid=0402MwlbUzHcsAJ2k3D1ObGR&from=groupmessage&isappinstalled=0#wechat_redirect)
   * [抓住六个点，谈唯品会的峰值系统应对实践](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=411068787&idx=1&sn=b49de92e29660385d5801a9b126269c3&scene=0#wechat_redirect)
   * [大众点评支付渠道网关系统的实践之路](http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html)
+  * [宅米网技术变迁——初创互联网公司的技术发展之路](http://geek.csdn.net/news/detail/84944)
  
 ### 创业非技术
 
