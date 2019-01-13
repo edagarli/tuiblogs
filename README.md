@@ -1,13 +1,15 @@
 优秀的计算机编程类博客 和 文章
 ============================
 
-##介绍
+## 介绍
 
 优秀的计算机编程类博客是一些关于计算机方面的优秀博客。
 
 欢迎大家将经常看的优秀博客或博客文章共享出来，您可以：
 
 * 使用 [Issues](https://github.com/edagarli/tuiblogs/issues) 以及 Pull Request 
+
+你也可以关注我的文章[zero to one about java技术体系](https://github.com/edagarli/JAVAZeroToOne)
  
 ## 目录
 
